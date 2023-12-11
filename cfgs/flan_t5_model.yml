@@ -1,0 +1,9 @@
+max_length: 512
+strategy: "both"
+r: 64
+lora_alpha: 128
+lora_dropout: 0.1
+usr_dim: 512
+prd_dim: 512
+p_rate: 0.1
+mim: -1
